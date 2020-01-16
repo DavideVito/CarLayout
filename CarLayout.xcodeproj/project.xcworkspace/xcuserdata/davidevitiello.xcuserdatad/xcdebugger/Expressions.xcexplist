@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MusicaViewController.riproduci(canzone:):MusicaViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "canzoni">
+            </PersistentString>
+            <PersistentString
+               value = "canzoniRiprodotte">
+            </PersistentString>
+            <PersistentString
+               value = "canzone">
+            </PersistentString>
+            <PersistentString
+               value = "canzone.getPercorso()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MusicaViewController.bottonePlay(_:):MusicaViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.canzoni.count == 0">
+            </PersistentString>
+            <PersistentString
+               value = "oldNome != testoTextArea">
+            </PersistentString>
+            <PersistentString
+               value = "oldNome">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Canzone.getPercorso():Canzone.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.percorso.addingPercentEncoding(withAllowedCharacters: .urlFragmentAllowed)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.playSound(canzone:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static NetworkManagerRequests.fetchCanzoni(sito:):NetworkManagerRequests.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static NetworkManagerRequests.fetch(sito:):NetworkManagerRequests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.datiMappa">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MusicaViewController.bottoneAvanti(_:):MusicaViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "canzoni">
+            </PersistentString>
+            <PersistentString
+               value = "canzoneCorrente">
+            </PersistentString>
+            <PersistentString
+               value = "indice">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static NetworkManagerRequests.fetchNomePosto(sito:):NetworkManagerRequests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sito">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.bottonePlay(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.arrivato">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MusicaViewController.bottoneIndietro(_:):MusicaViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indice">
+            </PersistentString>
+            <PersistentString
+               value = "canzoneCorrente">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
